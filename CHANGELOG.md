@@ -280,7 +280,7 @@ Others:
 
 ### Misc
 
-* CI improvemnts
+* CI improvements
   https://github.com/fluent/fluentd/pull/5083
   https://github.com/fluent/fluentd/pull/5085
   https://github.com/fluent/fluentd/pull/5086
@@ -546,7 +546,7 @@ Others:
   https://github.com/fluent/fluentd/pull/3899
 * Replace `$$` with `Process.pid`
   https://github.com/fluent/fluentd/pull/4040
-* Relax required webric gem version
+* Relax required webrick gem version
   https://github.com/fluent/fluentd/pull/4061
 * CI fixes to support Ruby 3.2
   https://github.com/fluent/fluentd/pull/3968
